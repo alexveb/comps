@@ -15,24 +15,24 @@ function App() {
         </Button>
       </div>
       <div>
-        <Button danger outline className="mb-5" onMouseEnter={handleClick}>
+        <Button danger outline className="" onMouseEnter={handleClick}>
           <GoCloudDownload />
           Buy Now!
         </Button>
       </div>
       <div>
-        <Button warning className="mb-5" onMouseLeave={handleClick}>
+        <Button warning className="" onMouseLeave={handleClick}>
           <GoDatabase />
           See Deal!
         </Button>
       </div>
       <div>
-        <Button secondary rounded className="mb-5">
+        <Button secondary rounded className="">
           Hide Ads!
         </Button>
       </div>
       <div>
-        <Button primary outline rounded className="mb-5">
+        <Button primary outline rounded className="">
           Something!
         </Button>
       </div>
